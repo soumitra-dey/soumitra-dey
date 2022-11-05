@@ -1,4 +1,4 @@
-[![MasterHead](https://www.softprodigy.com/wp-content/uploads/2021/06/JS-Development-Gif.gif)](https://rishavchanda.io)
+[![MasterHead](https://www.softprodigy.com/wp-content/uploads/2021/06/JS-Development-Gif.gif)](https://soumitra-dey.github.io/)
 
 <h1 align="center">Hi 👋, I'm Soumitra Dey</h1>
 <h3 align="center">Full Stack Web Developer</h3>
